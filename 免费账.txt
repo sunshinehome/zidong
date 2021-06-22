@@ -1,0 +1,9 @@
+免费V账号	
+自动检测V账号节点工具
+
+https://github.com/wuxinqi/zidong
+
+www.kernels.bid	443	f5c8f2b0-4437-88b9-c1de-3972ccf98fbb	ws	/ws	tls		
+	
+
+www.kernels.bid	80	77e25243-f84d-d367-f46c-444f7627c2be	ws	/ws	none		
