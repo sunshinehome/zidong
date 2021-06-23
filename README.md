@@ -187,10 +187,9 @@ https://proxy.yugogo.xyz/
 https://hm2019721.ml/
 https://hm2019721.ml/
 
-翻墙大师
-https://raw.githubusercontent.com/jth445600/hello-world/master/source.yaml
 
-proxypoolss.tk
+
+
 
 https://proxypoolss.tk
 https://proxypool.ga
