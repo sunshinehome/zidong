@@ -191,7 +191,7 @@ https://hm2019721.ml/
 
 
 
-https://proxypoolss.tk
+
 https://proxypool.ga
 https://pool-840979.asia1.kinto.io
 https://free-ss.site/
@@ -233,12 +233,7 @@ https://view.freev2ray.org/
 https://hm2019721.ml/
 https://hm2019721.ml/
 
-翻墙大师
-https://raw.githubusercontent.com/jth445600/hello-world/master/source.yaml
 
-proxypoolss.tk
-
-https://proxypoolss.tk
 https://proxypool.ga
 https://pool-840979.asia1.kinto.io
 https://free-ss.site/
@@ -332,12 +327,7 @@ Japan country logo Japan	Heiwaji
 https://hm2019721.ml/
 https://hm2019721.ml/
 
-翻墙大师
-https://raw.githubusercontent.com/jth445600/hello-world/master/source.yaml
 
-proxypoolss.tk
-
-https://proxypoolss.tk
 https://proxypool.ga
 https://pool-840979.asia1.kinto.io
 https://free-ss.site/
@@ -392,7 +382,7 @@ https://lncn.org/
 谷歌硬盘
 http://adkz.net/2pm09
 
-2021年6月18日上午，在神的看顾保守带领之下，让我成功掌握熟悉了科学上网的整个流程。
+熟悉了科学上网的整个流程。
 事情是这样的。首先，得拥有一个节点订阅链接。
 
 这个我已经准备好了，就在谷歌硬盘上。紧接着就着手下载测速软件，地址是自动检测节点工具
