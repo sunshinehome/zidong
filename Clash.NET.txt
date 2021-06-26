@@ -1,0 +1,4 @@
+https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/tag/v1.1.2
+https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/download/v1.1.2/Clash.NET.1.1.2.x64.Setup.exe
+https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/download/v1.1.2/windowsdesktop-runtime-5.0.6-win-x64.exe
+https://www.youtube.com/watch?v=5mwm4di_MO0
