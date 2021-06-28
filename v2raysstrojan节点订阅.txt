@@ -1,0 +1,7 @@
+
+v2ray(ss/trojan)节点订阅
+https://raw.githubusercontent.com/freefq/free/master/v2
+
+SSR节点订阅
+
+https://raw.githubusercontent.com/freefq/free/master/ssr
