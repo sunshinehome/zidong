@@ -1,0 +1,5 @@
+https://www.google.com.hk/search?q=inurl:clash/proxies&pli=1
+或者是
+inurl:clash/proxies
+
+都是代理池信息
